@@ -1,0 +1,9 @@
+"Genus","Phylum","Class","OSCC_mean","Control_mean","Tobacco_mean"
+"Alloprevotella",NA,NA,0.88,0.88,0
+"Fusobacterium","Firmicutes","Clostridia",4,1.5,0.6
+"Megasphaera",NA,NA,8.62,0.25,0
+"Parvimonas","Bacteroidetes","Bacteroidia",4.88,0.5,0
+"Prevotella","Fusobacteria","Fusobacteriia",4.62,4,0.6
+"Prevotellaceae_UCG.001",NA,NA,0.25,0,0
+"Rothia","Actinobacteria","Actinobacteria",0.75,4.75,2.4
+"uncultured","Firmicutes","Negativicutes",0,0.5,0
