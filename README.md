@@ -59,13 +59,6 @@ Some OSCC samples reached saturation at lower sequencing depths
 - Source: NCBI SRA (PRJNA548462)
 - Quality control: Forward reads truncated at 222, reverse at 216
 
-## Usage
-```bash
-git clone https://github.com/Disha-Dak/OSCC-Microbiome-Analysis
-pip install -r requirements.txt
-python scripts/main.py
-```
-
 ## Contact
 - Disha Jain
 - Email: dj.disha39@gmail.com
